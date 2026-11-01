@@ -1,73 +1,94 @@
-<!-- 
-  BRUTALIST PROFILE README
+<!--
+  BRUTALIST PROFILE README // ASHIQ RASOOL
   Theme: Raw Monochrome / Neo-Brutalism
+  Repo name must be exactly: ashiq-rasool
 -->
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" /> SYSTEM.PROFILE // ASHIQ_RASOOL
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=140&section=header&text=ASHIQ_RASOOL&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=45&animation=fadeIn&desc=SYSTEM.PROFILE%20//%20FULL-STACK%20%2B%20AI&descSize=18&descAlignY=75&descAlign=50" width="100%" alt="header" />
 
-<hr style="border: 2px solid #ffffff; width: 100%;">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=%3E+BUILDING+AI-POWERED+WEB+APPS;%3E+PYTHON+%7C+JAVASCRIPT+%7C+REACT+%7C+NODE;%3E+SHIPPING+CODE+FROM+KASHMIR%2C+INDIA;%3E+OPEN+TO+OPPORTUNITIES;%3E+STATUS%3A+COMPILING..." alt="typing" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=BUILDING+AI-POWERED+WEB+APPS;PYTHON+%7C+JAVASCRIPT+%7C+APIS;OPEN+TO+OPPORTUNITIES;BASED+IN+KASHMIR+%2F+INDIA" alt="Typing SVG" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ashiq-rasool&color=ffffff&style=for-the-badge&label=SYSTEM+VISITS" alt="views" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=4" width="100%" alt="divider" />
 
-### ⚡ 01. // QUICK_OVERVIEW
+## ⚡ 01 // QUICK_OVERVIEW
 
 ```yaml
-user: ashiq-rasool
-status: online // compiling...
-location: Kashmir, India
-focus: Full-Stack Development & AI Integration
+user:       ashiq-rasool
+status:     online // compiling...
+location:   Kashmir, India
+focus:      Full-Stack Development & AI Integration
 core_stack: [Python, JavaScript, React, Node.js]
+mode:       learn -> build -> break -> fix -> ship
+```
 
-🛠️ 02. // TECH_STACK
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=4" width="100%" alt="divider" />
+
+## 🛠️ 02 // TECH_STACK
+
 > Raw tools utilized for system execution.
-> 
-<p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=20" alt="C" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-🌐 03. // SOCIAL_CHANNELS
-<p align="left">
-<a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://youtube.com">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-</p>
-📊 04. // SYSTEM_METRICS
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashiq-rasool&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq-rasool&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,py,react,tailwind,nodejs&theme=dark&perline=10" alt="languages and frameworks" />
 
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,vercel,linux,vscode&theme=dark&perline=10" alt="tools" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiq-rasool&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=4" width="100%" alt="divider" />
 
-<img src="https://komarev.com/ghpvc/?username=ashiq-rasool&color=ff0000&style=flat&label=SYSTEM+VISITS" alt="Profile Views" />
-</p>
+## 🎯 03 // CURRENT_FOCUS
 
+| MODULE | STATUS |
+| :--- | :--- |
+| `AI-powered web apps` | `[██████████░░] IN PROGRESS` |
+| `React + Node.js full-stack` | `[█████████░░░] IN PROGRESS` |
+| `API design & integration` | `[████████░░░░] IN PROGRESS` |
+| `Docker & deployment` | `[██████░░░░░░] LEARNING` |
+| `Linux & system tools` | `[███████░░░░░] LEARNING` |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=4" width="100%" alt="divider" />
+
+## 📊 04 // SYSTEM_METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashiq-rasool&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&border_radius=0" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq-rasool&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&border_radius=0" height="170" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=ashiq-rasool&hide_border=false&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&border=FFFFFF&border_radius=0" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiq-rasool&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=false&border_color=FFFFFF&custom_title=COMMIT_ACTIVITY_LOG" width="100%" alt="Activity Graph" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=4" width="100%" alt="divider" />
+
+## 🌐 05 // SOCIAL_CHANNELS
+
+<div align="center">
+
+<a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=000000" alt="Instagram" /></a>
+<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=000000" alt="YouTube" /></a>
+<a href="https://github.com/ashiq-rasool"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000" alt="GitHub" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=000000" alt="Email" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=4" width="100%" alt="divider" />
+
+<div align="center">
+
+```text
+> while (alive) { learn(); build(); ship(); }
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=END_OF_FILE&fontColor=FFFFFF&fontSize=28&animation=twinkling" width="100%" alt="footer" />
+
+</div>
